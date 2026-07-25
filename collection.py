@@ -33,7 +33,7 @@ states = {"kwara", "lagos", "Asaba", "osun"}
 
 # TOPLE()
 
-foods = ("rice", "beans", "garri", "amala")
+foods = ("rice", "beans", "garri", "amala", "semo")
 
 # print(len(foods))
 # foods.count("rice")
