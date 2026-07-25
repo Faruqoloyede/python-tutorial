@@ -2,7 +2,7 @@ name = str(input("Enter a name of a place: "))
 gender = str(input("enter a gender:"))
 age= int(input("enter an age:"))
 adjective = str(input("enter an adjective:"))
-adjective2 = str(input("enter another adjective:"))
+adjective2 = str(input("enter another adjective:"));
 
 
 
