@@ -1,9 +1,9 @@
-# name = input("enter your name: ")
+name = input("enter your name: ")
 
-# while name == "":
-#     print("please enter your name")
-#     name = input("enter your name: ")
-#     print(name)
+while name == "":
+    print("please enter your name")
+    name = input("enter your name: ")
+    print(name)
 
 number = 1
 
